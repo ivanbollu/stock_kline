@@ -9,10 +9,10 @@
 1. 安装依赖
 bash
 pip install akshare mplfinance matplotlib pandas
-# 还需要安装 ffmpeg（导出 mp4 必需）
-# macOS: brew install ffmpeg
-# Windows: 官网下载后加入 PATH，或 choco install ffmpeg
-# Linux: sudo apt install ffmpeg
+还需要安装 ffmpeg（导出 mp4 必需）
+macOS: brew install ffmpeg
+Windows: 官网下载后加入 PATH，或 choco install ffmpeg
+Linux: sudo apt install ffmpeg
 
 2. 完整代码
 moutai_cinematic.py
