@@ -5,7 +5,8 @@
 整体流程
 获取股票日K数据（开高低收、成交量）
 用 mplfinance + matplotlib.animation 逐帧绘制：第 N 帧只显示前 N 个交易日
-用 ffmpeg 导出为 mp4
+用 ffmpeg 导出为 mp4。
+
 1. 安装依赖
 bash
 pip install akshare mplfinance matplotlib pandas
